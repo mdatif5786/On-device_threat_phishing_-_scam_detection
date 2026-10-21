@@ -1,0 +1,38 @@
+[
+  {
+    "message": "Congratulations! You have won a free prize. Call now!",
+    "score": 0.9954205036742784,
+    "threshold": -0.1402412876876613,
+    "label": "spam"
+  },
+  {
+    "message": "URGENT: Your bank account is blocked. Click this link immediately.",
+    "score": 0.5372121076384825,
+    "threshold": -0.1402412876876613,
+    "label": "spam"
+  },
+  {
+    "message": "Hey, are we still meeting for lunch today?",
+    "score": -1.1961410003027533,
+    "threshold": -0.1402412876876613,
+    "label": "not spam"
+  },
+  {
+    "message": "Please call me when you reach home.",
+    "score": -1.014645694758174,
+    "threshold": -0.1402412876876613,
+    "label": "not spam"
+  },
+  {
+    "message": "Claim your free data offer now!",
+    "score": 1.1908918642567317,
+    "threshold": -0.1402412876876613,
+    "label": "spam"
+  },
+  {
+    "message": "Your OTP is 123456. Do not share it with anyone.",
+    "score": -0.44742431346454725,
+    "threshold": -0.1402412876876613,
+    "label": "not spam"
+  }
+]
